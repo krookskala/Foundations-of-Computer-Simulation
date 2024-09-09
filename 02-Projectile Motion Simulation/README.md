@@ -44,7 +44,7 @@ Ensure you have Microsoft Excel or a compatible spreadsheet application installe
 **Installation:**
 
 1. **Download the Excel file from the repository:**
-- Navigate to the GitHub repository [https://github.com/krookskala/Foundations-of-Computer-Simulation.git].
+- Navigate to the GitHub repository [https://github.com/krookskala/Foundations-of-Computer-Simulation/tree/main/02-Projectile%20Motion%20Simulation].
 - Find the Excel file and download it to your local machine.
 
 **Running the Simulation:**
