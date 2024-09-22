@@ -1,5 +1,5 @@
 
-# Celestial Mechanics: Moon-Earth-Sun System Simulation
+# String Vibration Simulation
 
 
 ![Screenshot_1](https://github.com/user-attachments/assets/e223faf8-c1cd-4384-93d2-8d22bc9821b1)
